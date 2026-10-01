@@ -1,0 +1,1 @@
+Factory firmware para o relógio Waveshare ESP32S3 OLED.
